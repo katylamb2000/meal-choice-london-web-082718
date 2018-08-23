@@ -1,4 +1,5 @@
-def meal_choice  (choice = "meat")
+def meal_choice  (choice)
+  choice = meat
    puts choice
  end
   
